@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## 1) Setting the value of the matrix 2) Getting the value 
+## 1) Setting the value of the matrix 2) Getting the value of the matrix 3) Setting the value of the inverse 4) Getting the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 	i <<- NULL
